@@ -8,4 +8,5 @@ Things you may want to cover:
 Ruby 2.7.1
 Rails 6.0
 
-バリデーションを適応
+carrierwave追加
+i18n_generators追加
