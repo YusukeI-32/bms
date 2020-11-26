@@ -1,0 +1,4 @@
+ja:
+  time:
+    formats:
+      defult: "%Y/%m/%d %h:%m:%s"
