@@ -58,9 +58,3 @@ gem 'awesome_print'
 gem 'carrierwave'
 
 gem 'i18n_generators'
-
-gem 'uglifier'
-
-gem 'bootstrap','~>4.4.1'
-
-gem 'jquery-rails'
